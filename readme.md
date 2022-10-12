@@ -3,7 +3,7 @@
 <h2 align="Center">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Tushar Gupta, Web Developer :computer:<br>
+  <br> I'm  Ritik Sharma<br>
   <br>
   
   
@@ -35,10 +35,10 @@
 <a href="http://instagram.com/ohh_hii_tusharr/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" /></a>
 <a href="https://www.youtube.com/channel/UCZG6kAjr0ioBNdFjAOF_PbA" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/youtube.png" alt="" height="30" /></a>
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=Tushar-gupta-git&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for Tushar-gupta-git" width="700">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Tushar-gupta-git&theme=jolly" width="700">
+<img src="https://github-readme-stats.vercel.app/api?username=Ritik-Sharma-Git&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for Tushar-gupta-git" width="700">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Ritik-Sharma-Git&theme=jolly" width="700">
 <br>
-<p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Tushar-gupta-git&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" alt="Tushar-gupta-git" /> </p>
+<p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Ritik-Sharma-Git&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" alt="Tushar-gupta-git" /> </p>
 <br>
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5001&color=FFA500&vCenter=true&center=true&width=460&lines=Have+a+nice+day+!;" </p>
