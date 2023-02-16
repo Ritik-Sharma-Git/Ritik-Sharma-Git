@@ -4,13 +4,7 @@
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm  Ritik Sharma<br>
-  <h1>DM for fun</h1>
-  <ul>
-   <li>100rs for text</li>
-   <li>500rs for call</li>
-   <li>1000 for video call</li>
-  </ul>
-  <br>
+  
   
   
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
