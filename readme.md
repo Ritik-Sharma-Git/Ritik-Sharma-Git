@@ -4,6 +4,12 @@
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm  Ritik Sharma<br>
+  <h1>DM for fun</h1>
+  <ul>
+   <li>100rs for text</li>
+   <li>500rs for call</li>
+   <li>1000 for video call</li>
+  </ul>
   <br>
   
   
@@ -40,5 +46,6 @@
 <br>
 <p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Ritik-Sharma-Git&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" alt="Tushar-gupta-git" /> </p>
 <br>
+  
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5001&color=FFA500&vCenter=true&center=true&width=460&lines=Have+a+nice+day+!;" </p>
