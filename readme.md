@@ -38,7 +38,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Ritik-Sharma-Git&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for Tushar-gupta-git" width="700">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Ritik-Sharma-Git&theme=jolly" width="700">
 <br>
-<p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Ritik-Sharma-Git&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" alt="Tushar-gupta-git" /> </p>
+<p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Ritik-Sharma-Git&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" alt="Ritik-Sharma-Git" /> </p>
 <br>
   
 <p align="center">
